@@ -1,1 +1,1 @@
-# -Yajra-Datatables
+# Yajra-Datatables
